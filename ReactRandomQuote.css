@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Sriracha&display=swap');
+#root {
+    height: 100vh;
+    background-color: black;
+   }
+
+#quote-box {
+  background-color: rgba(255, 255, 255, 0.7);
+ }
+#wrapper-block {
+  transition: 1.5s ease;
+}
+h3 {
+  font-size: 1.5em;
+  font-family: 'Sriracha', cursive;
+}
+h4 {
+  font-size: 2rem;
+  font-family: 'Marck Script', cursive;
+  
+}
+.btn {
+  box-shadow: 1px 2px 5px #000000;
+}
+
+/*@media (max-width: 545px) {
+  h3, h4 {
+    font-size: 1.1rem;
+  }
+  
+}
